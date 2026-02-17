@@ -1,0 +1,39 @@
+[
+  {
+    "listing_id": "EX-001",
+    "details": {
+      "permit_no": "UAE-555",
+      "community": "bluewaters",
+      "building": "tower-a",
+      "sq_ft": 1500
+    },
+    "images": ["img1.jpg", "img2.jpg", "img3.jpg"],
+    "has_360_tour": true,
+    "dld_verified": true,
+    "title_deed_verified": false,
+    "form_a_attached": true,
+    "form_b_attached": false,
+    "last_response_minutes": 4,
+    "last_update_days": 2,
+    "paid_boost": 0.5,
+    "base_score": 0.4
+  },
+  {
+    "listing_id": "EX-002",
+    "details": {
+      "community": "jlt",
+      "building": "cluster-h",
+      "sq_ft": 900
+    },
+    "images": ["img1.jpg"],
+    "has_360_tour": false,
+    "dld_verified": false,
+    "title_deed_verified": false,
+    "form_a_attached": false,
+    "form_b_attached": false,
+    "last_response_minutes": 60,
+    "last_update_days": 30,
+    "paid_boost": 1.0,
+    "base_score": 0.2
+  }
+]
